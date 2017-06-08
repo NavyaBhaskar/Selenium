@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2017-04-12T04:50:05Z" finished-at="2017-04-12T04:50:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2017-04-12T04:50:05Z" finished-at="2017-04-12T04:50:05Z">
+      <class name="com.practice.Pgm1">
+        <test-method status="PASS" signature="chatwithfriendstest()[pri:0, instance:com.practice.Pgm1@b97c004]" name="chatwithfriendstest" duration-ms="12" started-at="2017-04-12T06:50:05Z" finished-at="2017-04-12T06:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chatwithfriendstest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.practice.Pgm1@b97c004]" name="logintest" duration-ms="2" started-at="2017-04-12T06:50:05Z" finished-at="2017-04-12T06:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="signuptest()[pri:0, instance:com.practice.Pgm1@b97c004]" name="signuptest" duration-ms="2" started-at="2017-04-12T06:50:05Z" finished-at="2017-04-12T06:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signuptest -->
+      </class> <!-- com.practice.Pgm1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
