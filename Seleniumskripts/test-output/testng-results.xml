@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69" started-at="2017-06-11T21:04:12Z" finished-at="2017-06-11T21:04:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69" started-at="2017-06-11T21:04:12Z" finished-at="2017-06-11T21:04:12Z">
+      <class name="BeforeAndAfterClass">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="openBrowser" is-config="true" duration-ms="9" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="example1()[pri:-1, instance:BeforeAndAfterClass@48eff760]" name="example1" duration-ms="7" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- example1 -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="openApplication" is-config="true" duration-ms="0" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="closeApplication" is-config="true" duration-ms="0" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="openApplication" is-config="true" duration-ms="0" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="example2()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="example2" duration-ms="2" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- example2 -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="closeApplication" is-config="true" duration-ms="1" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="example2()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="example2" duration-ms="4" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- example2 -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="openApplication" is-config="true" duration-ms="0" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="closeApplication" is-config="true" duration-ms="1" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="openApplication" is-config="true" duration-ms="1" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="example3()[pri:2, instance:BeforeAndAfterClass@48eff760]" name="example3" duration-ms="1" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- example3 -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="closeApplication" is-config="true" duration-ms="1" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:BeforeAndAfterClass@48eff760]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2017-06-11T23:04:12Z" finished-at="2017-06-11T23:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- BeforeAndAfterClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
